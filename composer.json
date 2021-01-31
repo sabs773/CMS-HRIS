@@ -1,0 +1,13 @@
+{
+    "require": {
+        "google/cloud": "^0.127.0",
+        "google/cloud-firestore": "^1.11",
+        "guzzlehttp/guzzle": "^6.5",
+        "grpc/grpc": "^v1.27.0",
+        "google/grpc-gcp": "^0.1.4",
+        "kreait/firebase-php": "4.17"
+    },
+    "require-dev": {
+        "nunomaduro/phpinsights": "^1.14"
+    }
+}
